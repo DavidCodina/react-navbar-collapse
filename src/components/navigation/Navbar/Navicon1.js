@@ -1,17 +1,11 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 
-export const Navicon1 = ({ toggleCollapse }) => { 
-  const [active, setActive ] = useState(false);
-
-  const handleClick = (e) => {
-    toggleCollapse(e);
-    setActive(currentValue => !currentValue);
-  }
+export const Navicon1 = ({ show, toggleCollapse }) => { 
   return (
     <button
-      onClick={handleClick} 
-      className={`btn hamburger-container hamburger-squeeze align-self-center user-select-none${active ? ' active' : ''}`}
+      onClick={toggleCollapse} 
+      className={`btn hamburger-container hamburger-squeeze align-self-center user-select-none${show ? ' active' : ''}`}
     >
       <div className="hamburger-inner"></div>
     </button>
