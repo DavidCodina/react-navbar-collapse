@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-navbar-collapse/static/css/main.15f44d94.chunk.css",
+    "main.js": "/react-navbar-collapse/static/js/main.c6af46a2.chunk.js",
+    "main.js.map": "/react-navbar-collapse/static/js/main.c6af46a2.chunk.js.map",
+    "runtime-main.js": "/react-navbar-collapse/static/js/runtime-main.bcd94d98.js",
+    "runtime-main.js.map": "/react-navbar-collapse/static/js/runtime-main.bcd94d98.js.map",
+    "static/js/2.9ec7dbcc.chunk.js": "/react-navbar-collapse/static/js/2.9ec7dbcc.chunk.js",
+    "static/js/2.9ec7dbcc.chunk.js.map": "/react-navbar-collapse/static/js/2.9ec7dbcc.chunk.js.map",
+    "index.html": "/react-navbar-collapse/index.html",
+    "static/css/main.15f44d94.chunk.css.map": "/react-navbar-collapse/static/css/main.15f44d94.chunk.css.map",
+    "static/js/2.9ec7dbcc.chunk.js.LICENSE.txt": "/react-navbar-collapse/static/js/2.9ec7dbcc.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/react-navbar-collapse/static/media/bootstrap-icons.dfd0ea12.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bcd94d98.js",
+    "static/js/2.9ec7dbcc.chunk.js",
+    "static/css/main.15f44d94.chunk.css",
+    "static/js/main.c6af46a2.chunk.js"
+  ]
+}
